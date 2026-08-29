@@ -10,6 +10,7 @@ All notable CyberDog Creative updates are recorded here and mirrored in the publ
 - Added a repository update protocol covering changelog entries, README maintenance, Git commits, GitHub pull requests, release notes, and issue tracking.
 - Added case-study sharing controls for clipboard links, native sharing, X, LinkedIn, and email.
 - Added portable Markdown brief downloads and print/save-to-PDF support for case studies.
+- Added a public Services page at `/services` with a CyberDog service matrix and a hosted Tally project-intake form.
 
 ### Changed
 
@@ -17,6 +18,7 @@ All notable CyberDog Creative updates are recorded here and mirrored in the publ
 - Documented the current CyberDog Creative capabilities, project map, local checks, and brand direction in the repository README.
 - Recorded recent navigation, case-study, Journal, and Community milestones in the public update log.
 - Added a branded animated `CLIPBOARD_COPIED` confirmation state to case-study sharing.
+- Connected Tally on its free plan to collect varied project requirements, links, and optional reference files without exposing credentials in the app.
 
 ### Accessibility
 
