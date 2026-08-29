@@ -5,6 +5,13 @@ import { Link } from 'wouter';
 const updates = [
   {
     date: 'AUG 28, 2026',
+    version: 'INTAKE // 01',
+    title: 'The client channel is open',
+    summary: 'CyberDog now has a public Services page for software, web, data, and digital operations work, plus a free Tally intake form for turning new signals into approved build briefs.',
+    tags: ['SERVICES', 'INTAKE', 'TALLY'],
+  },
+  {
+    date: 'AUG 28, 2026',
     version: 'SHARE // 01',
     title: 'Every case study can travel',
     summary: 'Case studies now copy their link with a branded clipboard confirmation, route visitors to native and social share destinations, and export a portable Markdown brief or print-ready PDF.',
