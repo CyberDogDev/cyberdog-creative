@@ -7,6 +7,7 @@ CyberDog Creative is a high-signal studio ecosystem for identity, digital work, 
 - Public studio site and portfolio
 - Database-backed Journal with editorial controls
 - Authenticated Community rooms and member profiles
+- Shareable case studies with social destinations and exportable project briefs
 - Public developer update log at `/developer`
 - Clerk-powered sign-in and member portal
 
