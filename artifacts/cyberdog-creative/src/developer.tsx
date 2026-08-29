@@ -5,6 +5,13 @@ import { Link } from 'wouter';
 const updates = [
   {
     date: 'AUG 28, 2026',
+    version: 'SHARE // 01',
+    title: 'Every case study can travel',
+    summary: 'Case studies now copy their link with a branded clipboard confirmation, route visitors to native and social share destinations, and export a portable Markdown brief or print-ready PDF.',
+    tags: ['SHARING', 'EXPORT', 'CASE STUDIES'],
+  },
+  {
+    date: 'AUG 28, 2026',
     version: 'NAV // 01',
     title: 'Wayfinding is now part of the signal',
     summary: 'Nested Journal, Community, Studio, and Portal routes now keep their place in the site hierarchy with active states, context trails, clear return actions, and an accessible mobile menu.',
