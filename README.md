@@ -1,10 +1,11 @@
 # CyberDog Creative
 
-CyberDog Creative is a high-signal studio ecosystem for identity, digital work, culture, community, and the systems behind memorable experiences.
+CyberDog Creative is an innovative technology company that builds software, web apps, websites, databases, APIs, automations, and digital systems for people and organizations ready to turn a rough signal into a working system.
 
 ## What is here
 
 - Public studio site and portfolio
+- Public Services page with a hosted Tally client-intake form
 - Database-backed Journal with editorial controls
 - Authenticated Community rooms and member profiles
 - Shareable case studies with social destinations and exportable project briefs
@@ -44,6 +45,7 @@ Repository activity is reviewable work, not a silent side effect. GitHub publish
 ## Project map
 
 - `artifacts/cyberdog-creative/src/App.tsx` — app shell, routes, global navigation, and shared wayfinding
+- `artifacts/cyberdog-creative/src/services.tsx` — service capability matrix and Tally project intake
 - `artifacts/cyberdog-creative/src/developer.tsx` — public update log and release protocol
 - `artifacts/cyberdog-creative/src/journal.tsx` — Journal archive, article pages, and Studio editor
 - `artifacts/cyberdog-creative/src/community/` — Community landing, rooms, and profiles
